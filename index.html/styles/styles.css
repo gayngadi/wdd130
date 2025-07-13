@@ -1,0 +1,63 @@
+/* General Reset */
+body {
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+  margin: 0;
+  padding: 0;
+}
+
+/* Header and Nav */
+header {
+  background-color: #0d6efd;
+  padding: 1rem;
+}
+
+nav a {
+  color: white;
+  text-decoration: none;
+  margin-right: 1rem;
+  font-weight: bold;
+}
+
+/* Main Section */
+main {
+  max-width: 600px;
+  margin: 2rem auto;
+  padding: 1rem;
+}
+
+main img {
+  width: 150px;
+  height: auto;
+}
+
+/* Aside Section */
+aside {
+  width: 90%;
+  margin: 2rem auto;
+  padding: 1rem;
+  border: 1px solid #ccc;
+  background-color: #f8f9fa;
+  color: #333;
+}
+
+aside img {
+  width: 200px;
+  height: auto;
+  display: block;
+  margin-bottom: 1rem;
+}
+
+/* Paragraphs */
+p {
+  padding: 0;
+}
+
+/* Footer */
+footer {
+  margin-top: 2rem;
+  padding: 1rem;
+  border-top: 1px solid #999;
+  text-align: center;
+  background-color: #e9ecef;
+}
